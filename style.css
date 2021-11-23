@@ -1,0 +1,31 @@
+.heading{
+    width: 100%;
+    font-size: 22px;
+    line-height: 2;
+}
+
+.heading button{
+    position: relative;
+    left: 520px;
+    font-size: 15px;
+    bottom: 5px;
+    color: black;
+}
+
+#play_button,#status,#restart_button{
+    margin-top: 10px;
+}
+
+#myModal{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#footer{
+    color: white;
+}
+
+canvas{
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+}
